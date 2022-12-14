@@ -1,6 +1,6 @@
 ﻿# SoulCode-Exercises
 <h1 align="center">
-   <a href="https://thiagocampello.github.io/Soulcode/](https://elizemuller.github.io/SoulCode-Exercises/">
+   <a href="https://elizemuller.github.io/SoulCode-Exercises/">
 	<img alt="Logo" src="https://tiinside.com.br/wp-content/uploads/2021/10/SoulCode.png" />
 	</a>
     <br>
