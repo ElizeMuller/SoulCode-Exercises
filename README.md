@@ -15,9 +15,8 @@
   
   <img alt="Top Language" src="https://img.shields.io/badge/HTML-100%25-orange">
   
-  <img alt="Repo Size" src="https://img.shields.io/github/repo-size/ThiagoCampello/SoulCode?style=for-the-badge">
+  <img alt="Repo Size" src="https://img.shields.io/badge/Repo%20Size-0.86mb-orange">
   
-  <img alt="Last Commit" src="https://img.shields.io/github/last-commit/ThiagoCampello/SoulCode?style=for-the-badge">
 </p>
 
 <h4 align="center">
