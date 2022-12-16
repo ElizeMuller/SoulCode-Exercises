@@ -1,0 +1,99 @@
+
+.container1{
+    display:flexbox;
+    background-repeat:no-repeat;
+    background-size:31%;
+    background-position: top center;
+    background-color: peachpuff;
+    flex-wrap: wrap;
+    flex-direction: row;
+}
+.backg{
+    position:absolute;
+    flex-direction: column;
+    background-color: rgb(92, 5, 5);
+    background-repeat:no-repeat;
+    background-size:100%;
+    margin-right:85%;
+    margin-top:0%;
+    padding: 66.7% 0% 50% 15%;
+
+}
+.backg1{
+    position:absolute;
+    flex-direction: column;
+    background-color: rgb(92, 5, 5);
+    background-repeat:no-repeat;
+    background-size:100%;
+    margin-left:85%;
+    margin-top:0%;
+    padding: 66.7% 0% 50% 15%;
+
+}
+h1{
+    font-family: 'noto serif', serif;
+    font-size: 50px;
+    color: #000000;
+    text-align: center;
+    margin-top: 5%;
+    margin-left: 20%;
+    margin-right:20%;
+    margin-bottom: 10px;
+    background-color: peachpuff;
+}
+h2{
+    font-family: 'noto serif', serif;
+    font-size: 30px;
+    color: #000000;
+    text-align: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    
+}
+.imgs{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    image-resolution:auto;
+}
+.intro{
+    font-family: 'noto serif', serif;
+    font-size: 20px;
+    color: #000000;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom: 10px;
+}
+.list1{
+    font-family: 'noto serif', serif;
+    font-size: 20px;
+    color: #000000;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom: 10px;
+}
+.parag{
+    font-family: 'noto serif', serif;
+    font-size: 20px;
+    color: #000000;
+    text-align: justify;
+    margin-top: 10px;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom: 10px;
+}
+.contatos{
+    font-family: 'noto serif', serif;
+    font-size: 20px;
+    color: #000000;
+    text-align: center;
+    margin-left:25%;
+    margin-right:25%;
+    margin-bottom:5%;
+}
+    

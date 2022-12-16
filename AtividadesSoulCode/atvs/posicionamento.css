@@ -1,0 +1,40 @@
+.esqcima {
+    width: 200px;
+    height: 200px;
+    margin:0% 0% 0% 0%;
+    position:fixed;
+
+    text-align:left;
+    background-color: red;
+    
+}
+.esqbaixo {
+    width: 200px;
+    height: 200px;
+    margin:33% 0% 0% 0%;
+    position:fixed;
+    
+    text-align:left;
+    background-color: green;
+}
+.dircima {
+
+   
+    width: 200px;
+    height: 200px;
+    margin:0% 0% 0% 85%;
+    position:fixed;
+    
+    text-align:left;
+    background-color: yellow;
+}
+.dirbaixo {
+    
+    width: 200px;
+    height: 200px;
+    margin:33% 0% 03% 85%;
+    position:fixed;
+    
+    text-align:left;
+    background-color: blue;
+}
